@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.name {
+    font-size: 40px;
+    color: #045762;
+    text-shadow: 2px 2px #fecd1a;
+}
+
+.about {
+    color: #61b15a;
+    text-shadow: 1px 2px #045762
+}
+
+.intro {
+    color: #16697a;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.profile {
+    background-color: #edf285;
+    padding-bottom: 10px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Texturina', serif;
+    font-size: 30px;
+}
+
+h1 {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 35px;
+}
+
+.top {
+    background-color: #C6EBC9;
+}
+
+.cloud {
+    width: 250px;
+    padding: 20px;
+}
+
+#cloud-1 {
+    position: relative;
+    left: 200px;
+}
+
+#cloud-2 {
+    position: relative;
+    right: 200px;
+}
+
+.picture {
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    border-radius: 40%;
+}
+
+.skill-pic-1,
+.skill-pic-2 {
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    border-radius: 50%;
+}
+
+.skill-row {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding-right: 10px;
+}
+
+#skill-row-2 {
+    background-color: #a685e2;
+}
+
+#skill-row-1 {
+    background-color: #fadcaa;
+    padding-top: 10px;
+}
+
+.desc {
+    font-size: 25px;
+}
+
+.btn {
+    background-color: #ee6f57;
+    color: #e4f9f5;
+    margin: 15px 15px 15px 15px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.btn:hover {
+    background-color: #f0a500;
+}
+
+.footer-link:hover {
+    color: #132743;
+}
+
+.contact-me {
+    padding-top: 15px;
+    width: 75%;
+    margin: auto;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.contact {
+    font-size: 25px;
+    color: #0a043c;
+}
+
+#contact {
+    color: #03506f;
+}
+
+.bottom-container {
+    background-color: #ffe0d8;
+    height: 55px;
+    padding-top: 10px;
+    padding: 28px;
+    margin-top: 30px;
+}
+
+.copyright {
+    padding-bottom: 10px;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: #16697a;
+    padding: 0 20px;
+    font-size: 22px;
+}
+
+.copyright {
+    font-size: 13px;
+}
